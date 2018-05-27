@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "helloworld-b7e91",
+    "default": "helloworld-b7e91"
+  }
+}
